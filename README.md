@@ -1,8 +1,9 @@
 # EMAIL-Template
 
 
-For Students Getting Info Interviews:
-Your message to your target person:
+# For Students Getting Info Interviews:
+# Your message to your target person:
+
 Dear Mr. Picone,
 
 I am an MBA student at XXX University, interested in entering the XXX industry when I graduate in the Spring of 20xx.
@@ -17,7 +18,8 @@ Thank you for your time,
 
 Gitta Kwainted
 
-Your Message to the Person Introducing You:
+# Your Message to the Person Introducing You:
+
 Gary,
 
 I’m interested in setting up an information interview with Michael Picone, one of your connections on LinkedIn.
@@ -49,7 +51,8 @@ Regards,
 
 Gitta Kwainted
 
-For Professionals Connecting with a Hiring Manager:
+# For Professionals Connecting with a Hiring Manager:
+
 Hi Christina,
 
 I ran across your profile on LinkedIn because I’m looking for Marketing opportunities at (target company).
