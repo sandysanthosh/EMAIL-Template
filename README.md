@@ -115,7 +115,7 @@ Hi Christina,
 
         Hi Tom,
 
-        I'm Workingon the report. I am 3 pages away from being done. I approximate it will take 5-7 more hours to Complete.
+        I'm Working on the report. I am 3 pages away from being done. I approximate it will take 5-7 more hours to Complete.
 
         I'll do my best to have it done by Saturday evening.
 
