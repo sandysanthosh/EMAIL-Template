@@ -91,7 +91,7 @@ Hi Christina,
 
 
 
-## YOUR OUT OF OFFIE AUTO RESPONSE:
+## YOUR OUT OF OFFICE AUTO RESPONSE:
 
         Hello,
 
