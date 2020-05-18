@@ -134,6 +134,19 @@ Hi Christina,
 
             Sincerely,
             [Your Name]
+            
+ ##  Good PITCH:
+
+            Hi Sam,
+
+            Thank you for connecting with me. I am working in the mobile app UA/ marketing space
+            and recently read an Appromoters article that you are were featured in around the 
+            end of 2020. I was wondering if you would be up for having a short conversation with me
+            about mobile app UA. Specifically i want to ask about innovative marketing tactis that
+            developers and advertisers are using increase app UA, monetization and retention.
+
+            Best,
+            your name
 
         
         
