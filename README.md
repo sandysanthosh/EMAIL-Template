@@ -1,8 +1,9 @@
 # EMAIL-Template
 
 
-# For Students Getting Info Interviews:
-# Your message to your target person:
+## For Students Getting Info Interviews:
+
+## Your message to your target person:
 
 Dear Mr. Picone,
 
@@ -20,70 +21,98 @@ Gitta Kwainted
 
 # Your Message to the Person Introducing You:
 
-Gary,
+    Gary,
 
-I’m interested in setting up an information interview with Michael Picone, one of your connections on LinkedIn.
+    I’m interested in setting up an information interview with Michael Picone, one of your connections on LinkedIn.
 
-I would like to ask him about both his experience at (Target Company) and in the industry in general. I
+    I would like to ask him about both his experience at (Target Company) and in the industry in general. I
 
-would very much appreciate it if you would forward my message to Mr. Picone.
+    would very much appreciate it if you would forward my message to Mr. Picone.
 
-Thanks for your help,
+    Thanks for your help,
 
-Gitta Kwainted
+    Gitta Kwainted
 
-For Professionals Getting Info Interviews:
-Dear Mr. Picone,
+## For Professionals Getting Info Interviews:
 
-I obtained your name through the (name the common LinkedIn group or network) on LinkedIn. I have been working at (name last position) and I am in the process of making a career transition.
+    Dear Mr. Picone,
 
-It would be helpful for me to ask you questions about your experiences as an (name role) for (target company).
+    I obtained your name through the (name the common LinkedIn group or network) on LinkedIn. I have been working at (name last position) and I am in the process of making a career transition.
 
-I promise not to take more than 15 minutes of your time.
+    It would be helpful for me to ask you questions about your experiences as an (name role) for (target company).
 
-I am not expecting to discuss a particular employment position but I would appreciate being able to talk with you on an informational basis.
+    I promise not to take more than 15 minutes of your time.
 
-What is the best way to reach you this week?
+    I am not expecting to discuss a particular employment position but I would appreciate being able to talk with you on an informational basis.
 
-I have Thursday at 9 and Friday at 2pm available. I thank you in advance.
+    What is the best way to reach you this week?
 
-Regards,
+    I have Thursday at 9 and Friday at 2pm available. I thank you in advance.
 
-Gitta Kwainted
+    Regards,
+
+    Gitta Kwainted
 
 # For Professionals Connecting with a Hiring Manager:
 
 Hi Christina,
 
-I ran across your profile on LinkedIn because I’m looking for Marketing opportunities at (target company).
+      I ran across your profile on LinkedIn because I’m looking for Marketing opportunities at (target company).
 
-I’ve been following the fast growth of the company over the last 3 years and want to see if there may be a place for me to help out.
+      I’ve been following the fast growth of the company over the last 3 years and want to see if there may be a place for me to help out.
 
-I know there may not be open opportunities at the moment, just so I’m not wasting your time or mine, I’d love a chance to speak with you about the company and see if I might, one day, be a fit.
+      I know there may not be open opportunities at the moment, just so I’m not wasting your time or mine, I’d love a chance to speak with you about the company and see if I might, one day, be a fit.
 
-I received an (name your degree) from XXX University, and spent the last 3 years working in sales and marketing for (name past company). I specialized in (your elevator pitch).
+      I received an (name your degree) from XXX University, and spent the last 3 years working in sales and marketing for (name past company). I specialized in (your elevator pitch).
 
-I promise not to take any more than 15-20 minutes of your time. Will you have some time this week for a chat? I have Thursday at 9 and Friday at 2pm available.
+      I promise not to take any more than 15-20 minutes of your time. Will you have some time this week for a chat? I have Thursday at 9 and Friday at 2pm available.
 
-Looking forward to your reply,
+      Looking forward to your reply,
 
-Gitta Kwainted
+      Gitta Kwainted
 
 
 # Business Mail
 
-Hi,
+      Hi,
 
-I really enjoyed our conversation earlier today and especially liked learning about your unique role.
-I understand you are facing and the impat they are having on you.
+      I really enjoyed our conversation earlier today and especially liked learning about your unique role.
 
-As promised, I have attached the resoure and materials that can help you better understand how
-we can help you tackle theses issue and create the change you are looking for.
+      I understand you are facing and the impact they are having on you.
 
-Please let me know if you have any questions. Otherwise, I look forward to talking with you
-again on.
+      As promised, I have attached the resoure and materials that can help you better understand how
+      we can help you tackle theses issue and create the change you are looking for.
 
-Best,
+      Please let me know if you have any questions. Otherwise, I look forward to talking with you
+      again on.
 
--Sandy
+      Best,
+      [Your Name]
+
+
+
+## YOUR OUT OF OFFIE AUTO RESPONSE:
+
+        Hello,
+
+
+        I will be out of office starting (start date ) through (End date) returinig on (Date of Return).
+
+        Inthe meantime, please contact (contact name) at (contact email address)
+
+        For help on project x, please contact (Contacts Name) at(Contact Email Address).
+
+        Otherwise I will respond to your emails as soon as possible upon my return.
+
+        Optional: In case of emergency, please contact me at (phone or email)
+
+        Sincerely,
+
+        [Your Name]
+        
+        
+        
+<a href="http://starwalt.in/Blogs/index.html">Follow us on Blog</a>
+
+
 
